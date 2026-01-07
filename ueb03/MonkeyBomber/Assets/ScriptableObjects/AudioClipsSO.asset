@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ed121ad7d65c4309b8223ce365fe4dd, type: 3}
+  m_Name: AudioClipsSO
+  m_EditorClassIdentifier: 
+  _bombExplosion: {fileID: 8300000, guid: f81481bdb12ec407baec74a2149e509b, type: 3}
+  _placeBomb: {fileID: 8300000, guid: 82e36af972dc147fcaa0fcf98e2e6dfa, type: 3}
+  _elevatorTravel: {fileID: 8300000, guid: 38711192b616d4d62bec646250f1ae7d, type: 3}
+  _collectedItem: {fileID: 8300000, guid: 381f9636461c248e49f1c091aeef1593, type: 3}
+  _won: {fileID: 8300000, guid: 94e5037642a644225831590ae5bbd372, type: 3}
+  _lost: {fileID: 8300000, guid: 026ef033397d74653b2c8c63bf31ab88, type: 3}
+  _alarm: {fileID: 8300000, guid: 41129bea2821a4dee97375e5759fec42, type: 3}

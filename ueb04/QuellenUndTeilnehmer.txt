@@ -1,0 +1,34 @@
+Teilnehmer: Nikolaos Tsetsas 106299
+Level: Level1
+
+Teilnehmer: Noah Schmidt 106209
+Level: Level2
+
+
+Musik/Sounds:
+-https://www.zapsplat.com/music/retro-arcade-game-laser-weapon-shoot-13/
+-https://www.zapsplat.com/music/bomb-hit-and-explode-2/
+-https://www.zapsplat.com/music/person-eating-several-pieces-of-popcorn-4/
+-https://www.zapsplat.com/music/female-adult-says-shh-as-if-asking-to-be-quiet-1/
+-https://www.zapsplat.com/music/baby-fart-10/
+-https://www.zapsplat.com/music/recorded-voice-through-telephone-receiver-uk-male-call-centre-says-thank-you/
+-https://www.zapsplat.com/music/sci-fi-alien-creature-scream-in-pain-with-light-distortion-7/
+-https://www.zapsplat.com/music/cartoon-sci-fi-ufo-tractor-beam-beaming-up/
+-https://www.zapsplat.com/music/crushing-breaking-a-bone-1/
+-https://pixabay.com/music/synthwave-39breathe39-by-cruasdope-10046/
+-https://pixabay.com/music/techno-trance-not-so-merry-christmas-182564/
+-https://www.zapsplat.com/music/internal-door-open-handle-lock-release/
+-https://pixabay.com/sound-effects/cough-40886/
+
+Modelle:
+-https://poly.pizza/m/3Db7LQbUEEt
+-https://poly.pizza/m/1EWXlRohqbL
+-https://assetstore.unity.com/packages/vfx/particles/spells/magic-effects-free-247933 (VFX)
+-https://assetstore.unity.com/packages/templates/tutorials/unity-learn-creator-kit-fps-urp-149310 (Gegner und Umgebung)
+
+Skripte:
+-https://assetstore.unity.com/packages/essentials/starter-assets-firstperson-updates-in-new-charactercontroller-pa-196525 (FPS Controller)
+-https://assetstore.unity.com/packages/tools/utilities/waypoints-free-143216
+
+Bilder:
+-ChatGPT Image Generation (Crosshairs, UI, Decals)

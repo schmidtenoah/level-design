@@ -1,0 +1,17 @@
+{
+    "name": "",
+    "type": "scene",
+    "roots": [],
+    "includes": [
+        ".unity"
+    ],
+    "excludes": [],
+    "options": {
+        "disabled": false,
+        "types": true,
+        "properties": false,
+        "extended": true,
+        "dependencies": false
+    },
+    "baseScore": 155
+}

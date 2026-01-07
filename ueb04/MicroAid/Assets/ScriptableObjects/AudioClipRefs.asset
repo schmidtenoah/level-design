@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd117d74210e422c940b4ebe07c4c69, type: 3}
+  m_Name: AudioClipRefs
+  m_EditorClassIdentifier: 
+  _insideBeam: {fileID: 8300000, guid: 33115e0dd02134eab83565c51ab12a56, type: 3}
+  _healShot: {fileID: 8300000, guid: aa639bedf85fc4afe970e61748ac266b, type: 3}
+  _damageShot: {fileID: 8300000, guid: 2db9b6c8ce3eb4fa98858ddc78e95a76, type: 3}
+  _wallBreak: {fileID: 8300000, guid: 16c313f2db9a84c41ad5e1ef0e80fe29, type: 3}
+  _itemCollected: {fileID: 8300000, guid: fccbc1878bb314af6a55aeb3362c69df, type: 3}
+  _won: {fileID: 8300000, guid: 7f2ec6dea4c8243149bdbbb48f138801, type: 3}
+  _lost: {fileID: 8300000, guid: 040c13cba873f4880a814d634205d22b, type: 3}
+  _weaponChange: {fileID: 8300000, guid: 4e5fbf3b232ad4d95949fbb01bdf89b9, type: 3}
+  _virusHealed: {fileID: 8300000, guid: a852a531f5634465cac511ea88798a0c, type: 3}
+  _virusShot: {fileID: 8300000, guid: 84bd96bb2ae614cb8b13f0c2c3692bdd, type: 3}
+  _virusSpwan: {fileID: 8300000, guid: 592806e205d6d4f19b81c628faefa649, type: 3}
+  _bossPartDefeat: {fileID: 8300000, guid: b97d562dd881c4422b7e2961bcc8ab71, type: 3}
+  _lockCollected: {fileID: 8300000, guid: 10daea1bb985343618cc176b72920044, type: 3}

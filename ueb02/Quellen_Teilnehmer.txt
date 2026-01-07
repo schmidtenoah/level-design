@@ -1,0 +1,32 @@
+Teilnehmer: Noah Schmidt 106209
+Level: Level1
+
+Teilnehmer: Nikolaos Tsetsas 106299
+Level: Level2
+
+
+
+Musik/Sounds:
+-https://pixabay.com/music/upbeat-max-intense-156842/
+-https://pixabay.com/sound-effects/cough-40886/
+-https://pixabay.com/sound-effects/swing-whoosh-weapon-4-189820/
+-https://pixabay.com/sound-effects/correct-2-46134/
+-https://pixabay.com/sound-effects/080884-bullet-hit-39872/
+-https://pixabay.com/music/modern-classical-romantic-classical-loop-love-story-277144/
+
+Modelle (alle restlichen Selbst erstellt):
+-https://assetstore.unity.com/packages/3d/props/furniture/low-poly-simple-furniture-free-240197
+-https://assetstore.unity.com/packages/templates/tutorials/unity-learn-creator-kit-fps-urp-149310
+-https://assetstore.unity.com/packages/vfx/shaders/urp-simple-toon-shader-243515
+-http://tripo3d.ai/app (Character und Crafter)
+
+Skripte:
+-https://assetstore.unity.com/packages/essentials/starter-assets-thirdperson-updates-in-new-charactercontroller-pa-196526?srsltid=AfmBOor068IqFG-BEeg5Np4IxMdgQwT4y9AztJ3ea1eWVP8G4JrpxUp3
+-https://assetstore.unity.com/packages/tools/utilities/waypoints-free-143216
+
+Bilder:
+-https://www.flaticon.com/free-icon/wasd_4292669
+-https://iconscout.com/icon/mouse-button-1982418_2476851
+-https://www.istockphoto.com/de/grafiken/spacebar
+-https://pngtree.com/freepng/mathematical-symbol-blue-hand-drawn-stereo-equal-sign-png_4463374.html
+-https://pngtree.com/freepng/plus-sign-blue-cute-cartoon-stereo-png_4463566.html

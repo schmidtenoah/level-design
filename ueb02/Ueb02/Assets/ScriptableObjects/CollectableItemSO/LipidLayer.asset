@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae8d894d6f7044fdaa9f0863d0d4f2bb, type: 3}
+  m_Name: LipidLayer
+  m_EditorClassIdentifier: 
+  _itemName: LipidLayer
+  _icon: {fileID: 21300000, guid: 2b643b7f86b0f430596e169f8f65153a, type: 3}
+  _prefab: {fileID: 8238209713024107817, guid: fb9f5b4d397ab4aa185d6426c5efe756, type: 3}

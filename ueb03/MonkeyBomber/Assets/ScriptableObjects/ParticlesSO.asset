@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 170befaba11e344c5ba9483b7909c18f, type: 3}
+  m_Name: ParticlesSO
+  m_EditorClassIdentifier: 
+  _ignition: {fileID: 6716933543107358056, guid: 8a334e7c388e77347a1dddd727ef3446,
+    type: 3}
+  _explosions:
+  - {fileID: 7022268795503775816, guid: 7377f38a94f13bd43924090d4a77f29e, type: 3}
+  - {fileID: 417761080263594737, guid: 7800b8f6b712bfe49bd663eeb3ebe1e4, type: 3}
+  - {fileID: 5601036089067188822, guid: 924e772d99fea934f8c7dff7c622e78a, type: 3}
+  _spreadExplosions:
+  - {fileID: 6969245875107871824, guid: 2e187e22a11f364409b0a3f4d03c36a8, type: 3}
+  - {fileID: 56852242586695119, guid: 4d7e19c9fcb52be4bb9a8ba855ffe12d, type: 3}
+  - {fileID: 5601036089067188822, guid: 924e772d99fea934f8c7dff7c622e78a, type: 3}

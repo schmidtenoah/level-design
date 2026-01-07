@@ -1,0 +1,36 @@
+Teilnehmer: Nikolaos Tsetsas 106299
+Level: Level1
+
+Teilnehmer: Noah Schmidt 106209
+Level: Level2
+
+
+Musik/Sounds:
+-https://pixabay.com/music/video-games-game-8-bit-328398/
+-https://www.zapsplat.com/music/game-sound-8-bit-bomb-or-explosion-with-a-longer-tail/
+-https://www.zapsplat.com/music/hand-pump-single-click-and-hiss-4/
+-https://www.zapsplat.com/music/game-sound-ding-dong-chime-6/
+-https://www.zapsplat.com/music/game-sound-8-bit-blip-item-lost/
+-https://www.zapsplat.com/music/game-sound-win-award-or-bonus-complete-or-collect-special-item/
+-https://www.zapsplat.com/music/game-sound-basic-digital-retro-incorrect-wrong-error-negative-tone-8/
+-https://www.zapsplat.com/music/science-fiction-small-alarm-beeps-warning/
+
+Modelle:
+-https://poly.pizza/m/wZOaCBBiJ9
+-https://poly.pizza/m/1ySgHdwK0q
+-https://poly.pizza/m/FuOkF3WBrx
+-https://poly.pizza/m/dz_TvM39dC7
+-https://poly.pizza/m/qGUAks6IHQ
+-https://poly.pizza/m/7eaXP_9tC-e
+-https://assetstore.unity.com/packages/vfx/particles/simple-particles-fx-toon-effects-244171
+-https://sketchfab.com/3d-models/stylized-palm-tree-22c3a3d3fb7146cfa22850fa31390e5d
+
+Skripte:
+-https://www.youtube.com/watch?v=uMUTy7Y14ug (Light-Cookie Bewegung)
+
+Bilder:
+-https://www.flickr.com/photos/sightrays/3522204218/
+-https://iconduck.com/icons/255428/arrows-all-direction
+-https://pngtree.com/so/red-plus
+-https://depositphotos.com/vector/set-of-blue-isometric-arrows-minimal-style-direction-concept-vector-177802068.html
+-ChatGPT Image Generation (Clock, Bomb-Border)
